@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1LW", "OOP1LW\OOP1LW.csproj", "{264CEEB6-E5F8-4B65-BBB0-DE53D3306BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264CEEB6-E5F8-4B65-BBB0-DE53D3306BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264CEEB6-E5F8-4B65-BBB0-DE53D3306BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264CEEB6-E5F8-4B65-BBB0-DE53D3306BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264CEEB6-E5F8-4B65-BBB0-DE53D3306BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
